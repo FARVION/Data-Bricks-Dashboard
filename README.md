@@ -4,10 +4,6 @@
 
 ---
 
-## 📊 Dashboard Preview
-
-![Emission Dashboard](dashboard_preview.png)
-
 The dashboard surfaces EPA 2023 emissions data with four core visualizations:
 - **Geo Spot Map** — Emission hotspots plotted across all US counties
 - **Emission vs Population Scatter Plot** — Per-capita emission patterns by county
